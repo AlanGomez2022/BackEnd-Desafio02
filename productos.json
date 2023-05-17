@@ -1,0 +1,74 @@
+[
+	{
+		"id": 1,
+		"title": "Johnnie Walker",
+		"price": 13500,
+		"thumnail": "johnnie.png",
+		"code": 12200,
+		"stock": 1200
+	},
+	{
+		"id": 2,
+		"title": "Jack Daniels",
+		"price": 12500,
+		"thumnail": "image.png",
+		"code": 12300,
+		"stock": 500
+	},
+	{
+		"id": 3,
+		"title": "Jack Daniels",
+		"price": 12500,
+		"thumnail": "image.png",
+		"code": 12300,
+		"stock": 500
+	},
+	{
+		"id": 4,
+		"title": "Jack Daniels",
+		"price": 12500,
+		"thumnail": "image.png",
+		"code": 12300,
+		"stock": 500
+	},
+	{
+		"id": 5,
+		"title": "Jack Daniels",
+		"price": 12500,
+		"thumnail": "image.png",
+		"code": 12300,
+		"stock": 500
+	},
+	{
+		"id": 6,
+		"title": "Jack Daniels",
+		"price": 12500,
+		"thumnail": "image.png",
+		"code": 12300,
+		"stock": 500
+	},
+	{
+		"id": 7,
+		"title": "Jack Daniels",
+		"price": 12500,
+		"thumnail": "image.png",
+		"code": 12300,
+		"stock": 500
+	},
+	{
+		"id": 8,
+		"title": "Jack Daniels",
+		"price": 12500,
+		"thumnail": "image.png",
+		"code": 12300,
+		"stock": 500
+	},
+	{
+		"id": 9,
+		"title": "Jack Daniels",
+		"price": 12500,
+		"thumnail": "image.png",
+		"code": 12300,
+		"stock": 500
+	}
+]
